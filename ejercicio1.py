@@ -1,6 +1,6 @@
 curso = "Python Básico"
 semestre = 2
-nombre = "Rafael"
+nombre = "Amado"
 
 print("Curso:", curso)
 print("Semestre:", semestre)
